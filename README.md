@@ -47,7 +47,7 @@ Full responsive for all mobile phones and tablets
 
 - Header section.
 - Navigation section.
--MainContentWrap components
+- MainContentWrap components
     - Intro section.
     - Features section.
     - Infos section.
