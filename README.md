@@ -73,3 +73,14 @@ Full responsive for all mobile phones and tablets
 ## Inspiration
 
 -StyleShout.com
+
+## Start project
+- Clone this repo (https://github.com/rodolphe37/elevate-react-template.git)
+- Make in the console :
+-    ```cd elevate-react-template```
+-    ``` npm i``` or ```npm install ```
+for install the dependencies and 
+-    ```npm start```
+to start project for personalisation.
+
+enjoy!!!
